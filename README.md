@@ -1,4 +1,4 @@
-# Chicago Crime and Well Being Project
+# Chicago Crime and Well-Being Project
 
 ![Equator](source_images/chicago-skyline.jpg)
 
