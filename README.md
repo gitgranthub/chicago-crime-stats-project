@@ -29,7 +29,9 @@
 ![Chi_Cri_Well_Pro](source_images/mstr_slide_28.png)
 ![Chi_Cri_Well_Pro](source_images/mstr_slide_30.png)
 ![Chi_Cri_Well_Pro](source_images/mstr_slide_32.png)
-
+---
+# Git organization notes:
+Each group member has their own branch organized with their working files. We are merging each branch's files to the master and organizing them into folders. Invidual project code files are in the 'code_projects' folder. **Note** If you open a jupyter or other individual file from the master, the related source data for that file, may be in a data or resource folder on the master repository.
 
 
 
