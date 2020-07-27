@@ -1,0 +1,459 @@
+Group 1
+B Daves, Grant Cheney, David Fried
+Javane Jones, Chioma Maduko, Oleg Ryzhkov
+
+
+July 28, 2020
+Chicago Crime & Well-Being Project
+1:30 intro of names, project name,
+
+Crime Investigators
+CHICAGO CRIME & WELL-BEING TRENDS
+Oleg Ryzhkov 
+State Level and Stat  Analysis
+Chioma Maduko 
+Project Admin/Moderator
+Grant Cheney 
+City Level Analysis
+Javane Jones
+City Level Analysis
+B Daves  
+City Level Analysis
+David Fried 
+City Level and Stat Analysis
+- Data sources 
+- Data finding
+- Data exploration
+- Data analysis
+
+- Data exploration
+- Data analysis
+- Data visualization
+- GitHub Moderator
+- Data analysis
+- Data visualization
+- Data exploration
+- Data analysis
+- Summarizing findings
+- Data import and cleaning
+- Data analysis
+- Data visualization
+- Regression analysis
+- Data analysis
+- Data visualization
+
+Research Objective:
+The influence of Health, birth, and economic factors on crime rates:
+Between U.S. states
+Between Chicago neighborhoods
+
+Hypothesis:
+U.S. states and Chicago neighborhoods that have populations  with poorer health, more teen pregnancies, and higher unemployment have greater crime.
+
+Results:
+Chicago neighborhoods with higher cancer rates, teen birth rates, and unemployment rates had greater neighborhood homicide rates. States with more poverty and unemployment had greater property crime and violence.
+
+EXECUTIVE SUMMARY
+Health/social factors and economic factors and crime rate
+Discuss health/social and economic factors at state level, such as …. Cancer, birthrates
+Discuss health/social and economic factors at neighborhood level, such as …per capita member
+
+Data CleanUp and Import: Summary
+CHICAGO CRIME & WELL-BEING TRENDS
+DataSet Description
+79 US big cities with murder statistics
+788 US major cities over 50k population
+Economic indicators across US States
+US States Crime Statistics (Violence and Property Crime)
+Leading Deaths Causes across US States
+Reported crime (over 7 million cases) and Chicago neighborhood health, birth, and economic factors (77 cases)
+
+Myth or Reality: Is Chicago the US Crime Capital?
+CHICAGO CRIME & WELL-BEING TRENDS
+Top Crime Cities by murders
+2014
+2015
+Chicago
+411
+478
+New York
+333
+352
+Baltimore
+211
+344
+Houston
+242
+303
+Detroit
+
+298
+295
+Los Angeles
+260
+282
+Philadelphia
+248
+280
+Chicago has a high number of murders: the city often records the highest absolute total killings each year. But the data tells us that Chicago’s murder rate is nowhere near the nation’s worst. On a per-capita basis — murders per 100,000 residents — the city regularly experiences fewer killings than places whose murder rates get far less national attention, “Because Chicago has so many people, it can get a murder every day, and that gets people’s attention,” “When you focus on numbers, not rates, Chicago ends up looking worse because you forget just how big a city it is.”
+
+
+Data Visualization: Adjusted Crime Rate at State Level (per 100k)
+CHICAGO CRIME & WELL-BEING TRENDS
+Adjusted Crime Rate by Types, USA
+2011
+All Types
+3,346
+Property Crime
+2,953
+Burglary
+713
+Larceny
+2,006
+Motor
+234
+Violence Crime
+393
+Assault
+245
+Murder
+5
+Rape
+27
+Robbery
+116
+
+Data Visualization: Adjusted Death Rate at State Level (per 100k)
+CHICAGO CRIME & WELL-BEING TRENDS
+Adj Death Rate by Leading Causes, USA
+2011
+All Causes
+820
+Heart Disease
+195
+Cancer
+188
+CLRD
+46
+Stroke
+42
+Unintentional injuries
+41
+Alzheimer
+27
+Diabet
+24
+Influenza and Pneumonia
+18
+Suicide
+13
+
+Data Exploration: State Level  
+CHICAGO CRIME & WELL-BEING TRENDS
+
+Data Analysis: State Level
+CHICAGO CRIME & WELL-BEING TRENDS
+
+Data Analysis: State Level
+CHICAGO CRIME & WELL-BEING TRENDS
+
+Data Exploration: Top US Dangerous Cities
+CHICAGO CRIME & WELL-BEING TRENDS
+
+Data Visualization: Chicago Neighborhood Homicide Rate (per 100k) 
+
+
+Data Visualization: Chicago Neighborhood Homicide Rate (per 100k) 
+
+
+Data Visualization: Chicago Neighborhood Homicide Rate (per 100k) 
+
+
+Data Exploration: Crime Type
+CHICAGO CRIME & WELL-BEING TRENDS
+
+Data Exploration: Health Factors
+The relationship of health factors with Homicide Rate (per 100k)
+Nn = 77 (neighborhoods)
+
+Data Exploration: Birth Factors
+CHICAGO CRIME & WELL-BEING TRENDS
+Nn = 77 (neighborhoods)
+
+Data Exploration: Economic Factors
+CHICAGO CRIME & WELL-BEING TRENDS
+Nn = 77 (neighborhoods)
+
+Statistical Analysis: Summary
+CHICAGO CRIME & WELL-BEING TRENDS
+Regressing neighborhood homicide rate (per 100k) on the teen birth rate (per 1k).
+X = Teen Birth Rate 
+
+Homicide_Rate = 0.45(X) - 4.6
+r = 0.77
+
+p = 0.0000
+
+R_squared = 0.59
+Interpretation: An increase in teen birth rate is associated with an increase in the neighborhood homicide rate, p < .05.
+
+Statistical Analysis: Summary
+CHICAGO CRIME & WELL-BEING TRENDS
+Regressing neighborhood homicide rate (per 100k) on unemployment.
+X = Unemployment
+
+Homicide_Rate = 1.92(X) - 7.46
+r = 0.81
+
+p = 0.0000
+
+R_squared = 0.66
+Interpretation: An increase in unemployment is associated with an increase in the neighborhood homicide rate, p < .05.
+
+Statistical Analysis: Summary
+CHICAGO CRIME & WELL-BEING TRENDS
+Regressing Neighborhood Crime Rate on Teen Birth Rate and Unemployment
+Predicted_homicide_rate = -10.1931 + 0.2246(t) + 1.2792(u)
+		
+
+			
+t = teen birth rate	
+u = unemployment
+*See appendix for results		
+Crop pictures and resize?
+
+Statistical Analysis: Summary
+CHICAGO CRIME & WELL-BEING TRENDS
+Regressing Neighborhood Crime Rate on Teen Birth Rate and Unemployment
+Fix this graphic
+
+Project Limitations
+CHICAGO CRIME & WELL-BEING TRENDS
+Defining Specific Roles
+Time Management
+Story Structure
+Consistency 
+Data Exploration
+
+1:30 intro of names, project name,
+
+Conclusion: Key Findings
+CHICAGO CRIME & WELL-BEING TRENDS
+Research Objective
+U.S. states and Chicago neighborhoods that have populations  with poorer health, more teen pregnancies, and higher unemployment have greater crime.
+
+Results:
+Chicago neighborhoods with higher cancer rates, teen birth rates, and unemployment rates had greater neighborhood homicide rates. 
+States with more poverty and unemployment had greater property crime and violence.
+
+Other interesting findings: 
+Contrary to popular belief, the murder rate in Chicago is lower than many other major cities when the murder rate is adjusted for population size.
+There were no correlations between health factors and crime rates when analyzing differences between states.
+
+
+
+Discussion: Research Conclusions
+CHICAGO CRIME & WELL-BEING TRENDS
+Results generally support our hypotheses.
+
+However, there was no relationship between health and crime when analyzing differences between states...
+
+
+ based on aggregated data (e.g., aggregated at neighborhood and state level)
+Well-being measure: 
+  need more measures of health factors
+  need psychological measures
+Need more measures economic measures
+
+ state level)
+Well-being measure: 
+  need more measures of health factors
+  need psychological measures
+Need more measures economic measures
+
+
+Explain why we think there was no relationship between health and crime when analyzing between states.
+
+Discussion: Practical Implications
+CHICAGO CRIME & WELL-BEING TRENDS
+Sex education
+
+Raising the minimum wage 
+
+Increasing welfare services
+
+Improving healthcare
+
+
+ based on aggregated data (e.g., aggregated at neighborhood and state level)
+Well-being measure: 
+  need more measures of health factors
+  need psychological measures
+Need more measures economic measures
+
+ state level)
+Well-being measure: 
+  need more measures of health factors
+  need psychological measures
+Need more measures economic measures
+
+
+Sex education: Discouraging teens from becoming pregnant may decrease stress, which could reduce tendency toward violent crime. (increase sex education)
+
+Raising the minimum wage and increasing welfare services: may reduce stress associated with low income which might decrease the tendency toward violent crime.
+
+Improving healthcare
+
+Discussion: Limitations
+CHICAGO CRIME & WELL-BEING TRENDS
+Research design (cross-sectional )
+
+Levels of analysis
+
+Measures
+
+Lack of controls
+
+ based on aggregated data (e.g., aggregated at neighborhood and state level)
+
+
+Research design (cross-sectional ): Correlation does not prove causation. Cannot rule out confounds.
+
+Levels of analysis: Factors that differ between neighborhoods and state influence the crime rate. Makes this difficult to draw conclusions about how these factors predict individual differences in the crime rate.
+
+Measures:   Didn’t include factors such as obesity and smoking.  Limited measure of crime: Only measured murder, violent crime,  and property crime.
+
+Lack of controls: Didn’t control for factors such as age.
+
+Discussion: Future Research
+CHICAGO CRIME & WELL-BEING TRENDS
+Different measures of health and economic factors
+
+Measures of psychological well-being (e.g., happiness and self esteem)
+
+Different measures of crime (e.g., sexual crimes and different types of violent crimes) 
+
+Additional analyses
+
+ based on aggregated data (e.g., aggregated at neighborhood and state level)
+Well-being measure: 
+  need more measures of health factors
+  need psychological measures
+Need more measures economic measures
+
+ state level)
+Well-being measure: 
+  need more measures of health factors
+  need psychological measures
+Need more measures economic measures
+
+
+Additional analyses:
+
+Hierarchical Regression Analysis  (unique contribution of variance from economic versus health factors)
+
+Exploratory Factor Analysis (empirically-driven approach to grouping health, birth, and economic variables into factors)
+
+Appendix
+
+Data CleanUp and Import: Summary
+CHICAGO CRIME & WELL-BEING TRENDS
+Program Code
+Description
+Data Period
+Data Source
+Data Type
+Output
+major_cities.ipynb
+79 US big cities with murder statistics
+2014, 2015, 2016(prel)
+Data.org, GoogleMap
+csv,
+api json
+csv, png
+788 US major cities over 50k population
+2010-2019 (estimate)
+Census.org, GoogleMap
+xlsx,
+api json
+csv, png
+census_states.ipynb
+Economic indicators across US States
+2010-2018
+Census.org,
+csv,
+api json
+csv, png
+
+US States Crime Statistics (Violence and Prop Crime)
+1960-2012
+GitHub
+csv
+csv, png
+
+cdc_states.ipynb
+Leading Deaths Causes across US States
+1999-2017
+CDC (Centers for Disease Control and Prevention)
+csv,
+api json
+csv, png
+
+nbhd_crime.ipynb
+Cleaned, transformed, and merged data from crime reports from victims in Chicago with neighborhood health and economic information
+2005-2011
+Chicago Data Portal
+csv
+csv, png
+nbhd_analysis.ipynb
+Performed analysis on merged data from nbhd_crime,ipynb code 
+2005-2011
+Chicago Data Portal
+csv
+csv, png
+
+QUESTIONS & DATA
+CHICAGO CRIME & WELL-BEING TRENDS
+
+Multiple Regression Results
+CHICAGO CRIME & WELL-BEING TRENDS
+Regressing Neighborhood Crime Rate on Teen Birth Rate and Unemployment
+Model
+OLS, Non-Robust
+R-Square
+0.74
+Obs
+77
+Adj R-Square
+0.73
+Df residual
+74
+F
+103.80
+Df model
+2
+p value
+0.000
+Equation
+Coefficient
+Standard Error
+T statistic
+p value
+Constant
+-10.1931
+2.203
+-4.63
+0.000
+Teen Birth Rate
+  0.2246
+0.050
+ 4.47
+0.000
+Unemployment
+  1.2792
+0.201
+ 6.37
+0.000
+
+Data Exploration: Visualizing Gangzta Activity
+CHICAGO CRIME & WELL-BEING TRENDS
