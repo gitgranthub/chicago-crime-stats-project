@@ -1,14 +1,17 @@
 # Chicago Crime and Well-Being Project
+
 Analyses included health, birth, and economic factors on the Chicago neighborhood homicide rate. Code creates correlation tables, regression analyses, 3d regression visualization, and predicted versus observed homicide bar chart. 
 
 Conducted analsis on visualization of neighborhood crime but did not include in presentation.
 
 Did not include input or output data.
 
-In order to run this code successfully you need to get the appropriate data, name the files appropriately, and put them in a folder titled "data." Below are the code file names.
+In order to run this code successfully you need to get the appropriate data, name the data files appropriately, and put them in a folder titled "data." Below are the code file names.
     nbhd_data_exploration1.ipynb
     nbhd_data_exploration2.ipynb
     nbhd_final_analysis.ipynb
+    nbhd_final_analysis_with_log_transformation.ipynb
+    crime_mapping.ipynb (in neighborhood_crime_map folder)
 
 Deleted config file in neighborhood_crime_map folder because it contained my api keys.
 
@@ -17,6 +20,7 @@ The folder 'images_df' needs to be changed to 'output_data' for jupyter notebook
     nbhd_data_exploration1.ipynb
     nbhd_data_exploration2.ipynb
     nbhd_final_analysis.ipynb
+    nbhd_final_analysis_with_log_transformation.ipynb
     data
     output_data
     neighborhood_crime_map
